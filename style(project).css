@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+One&display=swap');
+.main{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: -0.26%;
+    background: #ffffff;
+}
+.head h1{
+    position: absolute;
+    width: 271px;
+    height: 52px;
+    left: 584px;
+    top: 35px;
+    
+    font-family: 'Mochiy Pop One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 52px;
+    
+    color: #470B0C; 
+}
+.head h3{
+    position: absolute;
+    width: 571px;
+    height: 35px;
+    left: 434px;
+    top: 106px;
+    
+    font-family: 'Mochiy Pop One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
+    /* identical to box height */
+    
+    
+    color: #470B0C;  
+}
+.p1 img{
+    position: absolute;
+width: 295px;
+height: 302px;
+left: 257px;
+top: 237px;
+
+border-radius : 20px;
+}
+.p2 img{
+    position: absolute;
+    width: 295px;
+    height: 302px;
+    left: 572px;
+    top: 237px;
+    
+    border-radius: 20px;  
+}
+.p3 img{
+    position: absolute;
+width: 295px;
+height: 302px;
+left: 887px;
+top: 237px;
+
+border-radius: 20px;
+}
+
+.botton1 button{
+    position: absolute;
+    display: flex;
+    background-color: #c0c6c8;
+    color: #c0c6c8;
+    border: none;
+    border-radius: 50%;
+    width: 85px;
+    height: 85px;
+    left: 99px;
+    top: 345px;
+    text-align: center;
+    line-height: 50px;
+    font-size: 18px;
+    cursor: pointer;   
+}
+.botton1 img{
+    position: absolute;
+width: 48px;
+height: 25px;
+left: 20px;
+top: 30px;
+}
+.botton2 button{
+    position: absolute;
+    display: flex;
+    background-color: #c0c6c8;
+    color: #c0c6c8;
+    border: none;
+    border-radius: 50%;
+    width: 85px;
+    height: 85px;
+    left: 1255px;
+    top: 345px;
+    text-align: center;
+    line-height: 50px;
+    font-size: 18px;
+    cursor: pointer; 
+}
+.botton2 img{
+    position: absolute;
+    width: 48px;
+    height: 25px;
+left: 20px;
+top: 30px;
+}
+.head .a1{
+
+
+position: absolute;
+left: 80.98%;
+right: 8.41%;
+top: 5.66%;
+bottom: 90.92%;
+text-decoration: none;
+font-family: 'Mochiy Pop One';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 35px;
+/* identical to box height */
+
+
+color: #470B0C;
+
+}

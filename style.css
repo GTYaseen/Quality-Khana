@@ -1,0 +1,178 @@
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+One&display=swap');
+.main{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0.26%;
+    
+    background: #BF3136;}
+.logo img{
+    /* Logo 1 */
+    position: absolute;
+width: 85px;
+height: 82px;
+left: 4.7%;
+top: 2.56%;
+
+background: url(Logo.png);
+} 
+.logo .QK{
+    /* Quality Khana */
+
+
+position: absolute;
+left: 10.78%;
+right: 63.75%;
+top: -1%;
+bottom: 90.92%;
+
+font-family: 'Mochiy Pop One';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 52px;
+
+color: #FFFFFF;
+
+}
+.head .a1{
+    /* Home */
+
+
+position: absolute;
+left: 51.41%;
+right: 43.07%;
+top: 5.66%;
+bottom: 90.92%;
+
+font-family: 'Mochiy Pop One';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 35px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+.head .a2{
+    /* Projects */
+
+
+position: absolute;
+left: 58.86%;
+right: 32.53%;
+top: 5.66%;
+bottom: 90.92%;
+
+font-family: 'Mochiy Pop One';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 35px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+.head .a3{
+    /* Features */
+
+
+position: absolute;
+left: 69.75%;
+right: 21.3%;
+top: 5.66%;
+bottom: 90.92%;
+
+font-family: 'Mochiy Pop One';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 35px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.head .a4{
+    /* Contact us */
+
+
+position: absolute;
+left: 80.98%;
+right: 8.41%;
+top: 5.66%;
+bottom: 90.92%;
+
+font-family: 'Mochiy Pop One';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 35px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+.body h1{
+/* Desing your Ideas on every thing */
+
+
+position: absolute;
+left: 8.41%;
+right: 50.03%;
+top: 21.39%;
+bottom: 64.55%;
+
+font-family: 'Mochiy Pop One';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 72px;
+
+color: #FFFFFF;
+
+}
+.body h2
+{
+    /* Design your thoughts on your favrouite designs */
+
+
+position: absolute;
+left: 8.41%;
+right: 61.41%;
+top: 45.06%;
+bottom: 45.7%;
+
+font-family: 'Mochiy Pop One';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 52px;
+
+color: #FFFFFF;
+
+}
+.body img{
+    /* girl */
+
+
+position: absolute;
+left: 49.14%;
+right: 5.38%;
+top: 21.39%;
+bottom: 28.12%;
+
+}
+a {
+    position: relative;
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 600;
+  }

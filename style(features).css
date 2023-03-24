@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+One&display=swap');
+body{
+/* features */
+
+
+position: relative;
+width: 1440px;
+height: 1440px;
+
+background: #BF3136;
+}
+.head h1{
+    position: absolute;
+    width: 194px;
+    height: 62px;
+    left: 623px;
+    top: 59px;
+    
+    font-family: 'Mochiy Pop One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 52px;
+    
+    color: #FFFFFF; 
+}
+.head h4{
+    position: absolute;
+width: 488px;
+height: 34px;
+left: 476px;
+top: 145px;
+
+font-family: 'Mochiy Pop One';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 29px;
+
+color: #FFFFFF;
+}
+.p1 img{    
+    position: absolute;
+width: 611px;
+height: 594px;
+left: 109px;
+top: 221px;
+}
+.body h3{
+/* you can choose the best designers that will design your thoughts in a profisionalty way */
+
+
+position: absolute;
+left: 56.21%;
+right: 14.15%;
+top: 20.45%;
+bottom: 25.62%;
+
+font-family: 'Mochiy Pop One';
+font-style: normal;
+font-weight: 400;
+font-size: 29px;
+line-height: 35px;
+
+color: #FFFFFF;
+
+}
+.h51 h5{
+    position: absolute;
+    left: 56.21%;
+    right: 13.27%;
+    top: 25.17%;
+    bottom: 60.08%;
+    
+    font-family: 'Mochiy Pop One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+
+    
+    color: #ffffff;
+}
+.p2 img{
+    position: absolute;
+width: 603px;
+height: 494px;
+left: 731px;
+top: 815px;
+
+}
+.body h4{
+    position: absolute;
+    left: 17.21%;
+    right: 12.3%;
+    top: 65.17%;
+    bottom: 24.08%;
+    
+    font-family: 'Mochiy Pop One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 52px;
+    
+    color: #FFFFFF;
+}
+.h52 h5{
+    position: absolute;
+left: 17.52%;
+right: 58.77%;
+top: 72.45%;
+bottom: 45.39%;
+
+font-family: 'Mochiy Pop One';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 35px;
+
+color: #FFFFFF;
+
+}
+.head .a1{
+
+
+    position: absolute;
+    left: 80.98%;
+    right: 8.41%;
+    top: 5.66%;
+    bottom: 90.92%;
+    text-decoration: none;
+    font-family: 'Mochiy Pop One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
+    /* identical to box height */
+    
+    
+    color: #ffffff;
+    
+    }

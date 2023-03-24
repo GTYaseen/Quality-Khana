@@ -1,0 +1,309 @@
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+One&display=swap');
+body{
+    position: relative;
+    width: 1440px;
+    height: 1340px;
+    
+    background: #FFFFFF;
+}
+.head h1
+{
+position: absolute;
+left: 41.81%;
+right: 41.81%;
+top: 2.76%;
+bottom: 93.36%;
+
+font-family: 'Mochiy Pop One';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 52px;
+
+color: #470B0C;
+}
+.head h4
+{
+    /* we would be so happpy if you like to contact with us */
+
+
+position: absolute;
+left: 33.26%;
+right: 33.26%;
+top: 7.24%;
+bottom: 86.79%;
+
+font-family: 'Mochiy Pop One';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 35px;
+text-align: center;
+
+color: #470B0C;
+
+}
+.main .paper{
+    /* paper 1 */
+
+
+position: absolute;
+left: 50%;
+right: 6.88%;
+top: 24.78%;
+bottom: 32.54%;
+}
+.box .m1{
+    box-sizing: border-box;
+
+position: absolute;
+left: 6.94%;
+right: 50.69%;
+top: 22.39%;
+bottom: 31.42%;
+
+border: 3px solid #470B0C;
+border-radius: 66px;
+}
+.box .p1{
+    /* حي البنوك - تقاطع نادي النفط الرياضي مقابل ماركت ابو فاطمة */
+
+
+position: absolute;
+left: 17.08%;
+right: 53.54%;
+top: 29.1%;
+bottom: 64.03%;
+
+font-family: 'Mochiy Pop One';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 41px;
+text-align: center;
+
+color: #470B0C;
+
+}
+.box .pin
+{
+    /* pin_drop */
+position: absolute;
+left: 8.51%;
+right: 87.96%;
+top: 31.75%;
+bottom: 64.67%;
+}
+.box .p2{
+    /* qualitykhana@gmail.com */
+
+
+position: absolute;
+left: 17.08%;
+right: 55.35%;
+top: 39.33%;
+bottom: 57.61%;
+
+font-family: 'Mochiy Pop One';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 41px;
+/* identical to box height */
+
+text-align: center;
+
+color: #470B0C;
+
+}
+.box .mail1{
+    /* mail */
+position: absolute;
+left: 7.86%;
+right: 87.31%;
+top: 41.22%;
+bottom: 57.18%;
+}
+.box .p3{
+    /* #quiltykhana0123 */
+
+
+position: absolute;
+left: 21.04%;
+right: 57.99%;
+top: 47.54%;
+bottom: 49.4%;
+
+font-family: 'Mochiy Pop One';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 41px;
+/* identical to box height */
+
+text-align: center;
+
+color: #470B0C;
+}
+.box .face1{
+    /* Vector */
+
+
+position: absolute;
+left: 7.57%;
+right: 86.94%;
+top: 48.1%;
+bottom: 47.99%;
+}
+.box .p4{
+/* #quailtykhanan_khan */
+
+
+position: absolute;
+left: 21.04%;
+right: 54.44%;
+top: 56.79%;
+bottom: 40.15%;
+
+font-family: 'Mochiy Pop One';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 41px;
+/* identical to box height */
+
+text-align: center;
+
+color: #470B0C;
+}
+.box .insta1{
+/* Vector */
+
+
+position: absolute;
+left: 7.57%;
+right: 86.94%;
+top: 57.37%;
+bottom: 38.73%;
+}
+.end{
+    /* Rectangle 5 */
+
+
+position: absolute;
+left: -1%;
+right: -1%;
+top: 74.78%;
+bottom: -3%;
+
+background: #BF3136;
+}
+.end h1{
+    /* Quailty khana */
+
+
+position: absolute;
+left: 0.93%;
+right: 0%;
+top: 4.51%;
+bottom: 17.61%;
+
+font-family: 'Mochiy Pop One';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 52px;
+text-align: center;
+
+color: #FFFFFF;
+}
+.end h3{
+    /* The best place to design your thoughts */
+
+
+position: absolute;
+left: 31.6%;
+right: 31.6%;
+top: 35.25%;
+bottom: 13.13%;
+
+font-family: 'Mochiy Pop One';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 35px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+.end .m1{
+    position: absolute;
+    left: 37.43%;
+    right: 58.61%;
+    top: 60.73%;
+    bottom: 7.01%;
+}
+.end .m2{
+    position: absolute;
+    left: 45.42%;
+    right: 50.62%;
+    top: 60.73%;
+    bottom: 7.01%;
+    
+}
+.end .m3{
+    position: absolute;
+    left: 53.89%;
+    right: 43.23%;
+    top: 63.73%;
+    bottom: 7.94%;
+}
+.end .m4{
+    position: absolute;
+    left: 61.32%;
+    right: 34.72%;
+    top: 60.73%;
+    bottom: 7.01%;
+}
+.end .cc
+{
+    position: absolute;
+left: 0.57%;
+right: 0.08%;
+top: 85.85%;
+bottom: 2.54%;
+
+font-family: 'Mochiy Pop One';
+font-style: normal;
+font-weight: 50;
+font-size: 24px;
+line-height: 5px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+
+}
+.head .a1{
+
+
+    position: absolute;
+    left: 80.98%;
+    right: 8.41%;
+    top: 5.66%;
+    bottom: 90.92%;
+    text-decoration: none;
+    font-family: 'Mochiy Pop One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
+    /* identical to box height */
+    
+    
+    color: #470B0C;
+    
+    }
